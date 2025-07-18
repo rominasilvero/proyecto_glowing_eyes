@@ -19,26 +19,29 @@ Glowing Eyes ofrece una experiencia de compra simple, visual y moderna, con carr
 
 ## Estructura del Proyecto
 
+```
 src/
-├── assets/             # Imágenes y recursos
-├── components/         # Componentes reutilizables
-├── context/            # Manejo global (cart, admin, auth)
-├── pages/              # Vistas (Home, Galería de productos, etc.)
-├── App.jsx             # Rutas principales
-└── main.jsx            # Entrada de React
-public
-├── data/               # Datos de ejemplo de usuarios y backup de productos
+├── assets/           # Imágenes y recursos
+├── components/       # Componentes reutilizables
+├── context/          # Manejo global (cart, admin, auth)
+├── pages/            # Vistas (Home, Galería de productos, etc.)
+├── App.jsx           # Rutas principales
+└── main.jsx          # Entrada de React
+
+public/
+└── data/             # Datos de ejemplo de usuarios y backup de productos
+```
 
 ## Funcionalidades Principales
 
-- ✅ Listado de productos destacados
-- ✅ Detalle de producto individual
-- ✅ Carrito de compras persistente
-- ✅ Notificaciones con React Toastify
-- ✅ Alertas con SweetAlert2
-- ✅ Mejora SEO con React Helmet
-- ✅ Accesibilidad: imágenes con alt, aria-labels, formularios etiquetados
-- ✅ Diseño responsive con Bootstrap
+- Listado de productos destacados
+- Detalle de producto individual
+- Carrito de compras persistente
+- Notificaciones con React Toastify
+- Alertas con SweetAlert2
+- Mejora SEO con React Helmet
+- Accesibilidad: imágenes con alt, aria-labels, formularios etiquetados
+- Diseño responsive con Bootstrap
 
 ## Scripts disponibles
 
