@@ -1,0 +1,110 @@
+.link.active {
+    color: #fafbfc;
+    font-weight: bold;
+   
+    
+  }
+  .link{
+   
+      margin-right: 20px;
+  }
+
+  .contenedor{
+    text-align:justify;
+    justify-content: center;
+    margin: auto;
+    width: 65%;
+  }
+
+  .valores{
+    font-size: 12px;
+   }
+
+  hr{
+    margin-top: 20px;
+    background-color: rgb(244, 239, 239);
+  }
+
+
+   .lia{
+  text-decoration: none;
+  
+   }
+  .text-center{
+    margin-top: 90px;
+  }
+ 
+  form {
+    padding-left: 650px;
+    width: 1000px;
+    border-radius: 1em;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+  label {
+    display: inline-block;
+    padding-top: 30px;
+  }
+  
+  input,
+  textarea {
+    width: 500px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+  }
+  
+
+  input{
+    border-radius: 10px;
+    background-color: grey;
+    
+  }
+  input:focus,
+  textarea:focus {
+    border-color: #000;
+    
+  }
+
+
+  
+  
+  textarea {
+    vertical-align: top;
+    height: 10em;
+    background-color: gray;
+  }
+  
+ 
+
+  .padre{
+    display: table;
+    font-family: serif;
+    text-Align: center; 
+    margin: 3rem auto; 
+    width:800px; 
+    height:310px;
+  }
+
+  .padre p{
+    display: table-cell;
+    
+    font-weight:bold;
+   word-spacing: 3px;
+    padding-top: 0  1 rem;
+    vertical-align: middle;
+  }
+
+  .h1r{
+    font-Weight: bold; 
+    font-Size: 14px;
+    
+  }
+  
+
+ 

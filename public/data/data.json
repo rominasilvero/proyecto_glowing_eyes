@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sombras ARTWORK",
+    "precio": 23000,
+    "stock": 25,
+    "imagen": "https://images.unsplash.com/photo-1734077028880-ce01c36ddf29?q=80&w=3021&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "clásico",
+    "cantidad": 0,
+    "brand": "RB",
+    "descripcion": "Un toque en tu mirada"
+  },
+  {
+    "id": 2,
+    "nombre": "Labial en barra SMILE",
+    "precio": 21000,
+    "stock": 18,
+    "imagen": "https://images.unsplash.com/photo-1591734392299-62179b2440a5?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "simple",
+    "cantidad": 0,
+    "brand": "RB",
+    "descripcion": "Para deslumbrar con tu sonrisa"
+  },
+  {
+    "id": 3,
+    "nombre": "Rubor SELF LOVE",
+    "precio": 18000,
+    "stock": 12,
+    "imagen": "https://images.unsplash.com/photo-1712636999106-f8b51d273565?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "unica",
+    "cantidad": 0,
+    "brand": "RB",
+    "descripcion": "Para que te sientas única"
+  },
+  {
+    "id": 4,
+    "nombre": "Mascara de pestañas BLINK",
+    "precio": 12000,
+    "stock": 15,
+    "imagen": "https://images.unsplash.com/photo-1560725613-4b52e67fc67b?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "brillo",
+    "cantidad": 0,
+    "brand": "RB",
+    "descripcion": "Para tu mirada perfecta"
+  },
+  {
+    "id": 5,
+    "nombre": "Base liquida INNER BEAUTY",
+    "precio": 39000,
+    "stock": 20,
+    "imagen": "https://images.unsplash.com/photo-1599733589046-10c005739ef9?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "claro",
+    "cantidad": 0,
+    "brand": "RB",
+    "descripcion": "Con esta base te sentiras especial"
+  },
+  {
+    "id": 6,
+    "nombre": "Lapiz delineador CAT EYE",
+    "precio": 16000,
+    "stock": 30,
+    "imagen": "https://images.unsplash.com/photo-1631214524020-7e18db9a8f92?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "negro",
+    "cantidad": 0,
+    "brand": "RB",
+    "descripcion": "Tu delineado perfecto"
+  }
+]
