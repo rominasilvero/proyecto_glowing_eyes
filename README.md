@@ -4,6 +4,8 @@ _E-commerce de productos de maquillaje desarrollado con React, Vite y Bootstrap.
 
 Glowing Eyes ofrece una experiencia de compra simple, visual y moderna, con carrito persistente y un diseño moderno.
 
+Demo en https://rominasilvero.github.io/proyecto_glowing_eyes/
+
 ## Tecnologías Utilizadas
 
 - Node 18
